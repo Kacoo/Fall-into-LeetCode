@@ -45,4 +45,4 @@ Your memory usage beats 68.18 % of javascript submissions (33.8 MB)
 【】  
 ### 结tu语cao
 简单题，26进制。  
-但也要注意一些坑。复习一下Math的函数吧。Kacoo@2020-04-07
+但也要注意一些坑。复习一下Math的函数吧。Kacoo@2020-04-07 周二
